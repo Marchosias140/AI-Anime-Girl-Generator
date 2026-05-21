@@ -2,9 +2,32 @@
 A simple Python script that creates an anime girl AI character file with random traits.
 
 
+
+
+
+
+You can create as many characters as you want in a single use, provided that your system can handle so many files.
+
+
 # Instructions
 
+
+
+
 This app is better run inside a Python environment. It doesn't feature any rare dependency, but I think it's customary.
+
+
+
+This app does not require AI to function, just Python.
+
+
+
+
+On the terminal:
+
+
+
+
 
 
 
@@ -15,7 +38,7 @@ This app is better run inside a Python environment. It doesn't feature any rare 
 
 
 
-Follow the instructions on the terminal, the generated character files will be inside the generated_characters folder.
+The generated character files will be inside the generated_characters folder.
 
 
 
